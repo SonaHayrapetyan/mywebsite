@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+    font-weight: bold;
+}
+
+h2{
+color: blue;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
